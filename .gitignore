@@ -41,3 +41,6 @@ nosetests.xml
 # Static and media files (if not tracked)
 staticfiles/
 media/
+
+# snap2txt
+project_contents.txt
