@@ -2,6 +2,10 @@
 
 This is a quick-start template for setting up a **Django** project with **OpenAI integration**. The project is containerized with Docker, allowing for easy setup and consistent deployment.
 
+<a href="https://www.producthunt.com/posts/prototype?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-prototype" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=864287&theme=dark&t=1739193427424" alt="Prototype - Build&#0032;your&#0032;next&#0032;project&#0032;in&#0032;a&#0032;single&#0032;prompt | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
+> Check out the report on creating with Prototype on [dev.to](https://dev.to/vorniches/building-self-hosted-telegraph-in-1-prompt-and-3-minutes-2li2) or [YouTube](https://youtu.be/ArPGGaG5EU8).
+
 ## Requirements
 
 Before starting, ensure you have:
