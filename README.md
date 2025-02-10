@@ -1,4 +1,4 @@
-# Prototype – Django + OpenAI Quick Start Project
+# Prototype
 
 This is a quick-start template for setting up a **Django** project with **OpenAI integration**. The project is containerized with Docker, allowing for easy setup and consistent deployment.
 
